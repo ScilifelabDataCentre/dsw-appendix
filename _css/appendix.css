@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,700);
+﻿@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,700);
 
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
@@ -13854,4 +13854,22 @@ textarea {
 .Users__Index .user-card .email {
 	margin-bottom: 10px;
 	word-break: break-all
+}
+.table-style1 {
+	border: 1px solid #C0C0C0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+.table-tr1 {
+	border: 1px solid #C0C0C0;
+	background-color: #FFFFFF;
+}
+.table-th {
+	border: 1px solid #C0C0C0;
+	font-weight: bold;
+	background-color: #86CFDA;
+}
+.table-tr2 {
+	border: 1px solid #C0C0C0;
+	background-color: #DEE2E6;
 }
