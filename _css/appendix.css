@@ -13894,3 +13894,17 @@ textarea {
 .contact-table tr:nth-child(odd) {
 	background:#f0f0f0;
 }
+.privacy {
+	max-width: 45em;
+	text-align: justify;
+}
+.privacy-h2 {
+	max-width: 50em;
+}
+.privacy-circle {
+	list-style-type:circle;
+}
+.privacy-square {
+	list-style-type:square;
+}
+
