@@ -13873,3 +13873,24 @@ textarea {
 	border: 1px solid #C0C0C0;
 	background-color: #DEE2E6;
 }
+.contact-table {
+	font-size: medium;
+	width:100%;
+	border-collapse:collapse;
+}
+.contact-table-tr1 {
+	background:#f0f0f0;
+	padding: 10px;
+}
+.contact-table th {
+	vertical-align:top;
+	text-align:left;
+	width:15%;
+}
+.contact-table tr td,
+.contact-table tr th {
+	padding:10px;
+}
+.contact-table tr:nth-child(odd) {
+	background:#f0f0f0;
+}
