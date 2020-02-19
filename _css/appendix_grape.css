@@ -3080,7 +3080,7 @@ sup {
 }
 
 a {
-	color: #e95420;
+	color: var(--primary);
 	text-decoration: none;
 	background-color: transparent
 }
