@@ -2944,12 +2944,18 @@
 	--orange: #e95420;
 	--yellow: #efb73e;
 	--green: #38b44a;
-	--teal: #20c997;
+	--teal: #045c64;
+	--teal-light: #82aeb2;
+	--grape: #491f53;
+	--grape-light: #a48fa9;
+	--aqua: #4e979f;
+	--aqua-light: #abcbcf;
 	--cyan: #17a2b8;
 	--white: #fff;
 	--gray: #868e96;
 	--gray-dark: #333;
 	--primary: #e95420;
+	--primary-light: #f29e80;
 	--secondary: #aea79f;
 	--success: #38b44a;
 	--info: #17a2b8;
@@ -3109,7 +3115,7 @@ figure {
 }
 
 img {
-	border-style: none
+	border: 1px solid var(--primary)
 }
 
 img, svg {
@@ -8893,7 +8899,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-	background-color: #e95420 !important
+	background-color: var(--primary) !important
 }
 
 a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
@@ -13819,7 +13825,7 @@ textarea {
 }
 
 .public .navbar-expand-sm .navbar-nav>li a:hover {
-	background-color: #ac3911
+	background-color: var(--primary-light)
 }
 
 .public .card-header {
