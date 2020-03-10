@@ -3080,7 +3080,7 @@ sup {
 }
 
 a {
-	color: var(--primary);
+	color: var(--aqua);
 	text-decoration: none;
 	background-color: transparent
 }
@@ -13872,15 +13872,15 @@ textarea {
 }
 .td-color1 {
 	border: 1px solid #C0C0C0;
-	background-color: LemonChiffon;
+	background-color: LightYellow;
 }
 .td-color2 {
 	border: 1px solid #C0C0C0;
-	background-color: LightCyan;
+	background-color: Lavender;
 }
 .td-color3 {
 	border: 1px solid #C0C0C0;
-	background-color: Lavender;
+	background-color: LightCyan;
 }
 .td-color4 {
 	border: 1px solid #C0C0C0;
