@@ -3080,7 +3080,7 @@ sup {
 }
 
 a {
-	color: var(--primary);
+	color: var(--aqua);
 	text-decoration: none;
 	background-color: transparent
 }
@@ -13869,6 +13869,22 @@ textarea {
 .table-tr1 {
 	border: 1px solid #C0C0C0;
 	background-color: #FFFFFF;
+}
+.td-color1 {
+	border: 1px solid #C0C0C0;
+	background-color: LightYellow;
+}
+.td-color2 {
+	border: 1px solid #C0C0C0;
+	background-color: Lavender;
+}
+.td-color3 {
+	border: 1px solid #C0C0C0;
+	background-color: LightCyan;
+}
+.td-color4 {
+	border: 1px solid #C0C0C0;
+	background-color: LavenderBlush;
 }
 .table-th {
 	border: 1px solid #C0C0C0;
