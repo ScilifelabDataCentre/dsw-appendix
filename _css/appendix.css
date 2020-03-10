@@ -13870,6 +13870,22 @@ textarea {
 	border: 1px solid #C0C0C0;
 	background-color: #FFFFFF;
 }
+.td-color1 {
+	border: 1px solid #C0C0C0;
+	background-color: LemonChiffon;
+}
+.td-color2 {
+	border: 1px solid #C0C0C0;
+	background-color: LightCyan;
+}
+.td-color3 {
+	border: 1px solid #C0C0C0;
+	background-color: Lavender;
+}
+.td-color4 {
+	border: 1px solid #C0C0C0;
+	background-color: LavenderBlush;
+}
 .table-th {
 	border: 1px solid #C0C0C0;
 	font-weight: bold;
