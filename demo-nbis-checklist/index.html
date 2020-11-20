@@ -33,7 +33,12 @@
                 NBIS bioinformatician agree, and are aware of, data management strategies 
                 for the suppport project, as well as provide the NBIS data steward with 
                 sufficient information to be able to assist with data management issues in 
-                general and specifically with data publication.
+                general and specifically with data publication.<br><br>
+                The expected process is that the Checklist is owned and initiated by the researcher 
+                that acts as the primary contact person, between the research group and NBIS. This 
+                person is making sure that the questions are answered, either by knowing 
+                the answer him/herself, collecting the answer from someone else or by delegating 
+                specific questions to another member of the support project.
               </p>
               <p><h2>Contents</h2>
                 <ul>
@@ -73,21 +78,24 @@
               <p>
                 <ul>
                   <li>The menu on the <b>left-hand</b> margin is the top level menu of the tool, with 
-                    how-to-use links and where you can find all your projects </li>
+                    Guide links and Knowledge models, and where you can find all your projects </li>
                   <li>In the top of the page, there is a <b>navigation bar</b> with tabs that allows you to
                     shift between different views of the current project. 
                     <ul>
                       <li><code>Questionnaire</code> is where you answer the questions </li>
                       <li><code>TODOs</code> show questions in need for actions</li>
-                      <li><code>Metrics</code> show statistics of questions answered</li>
-                      <li><code>Preview</code> display the output document (not implemented)</li>
+                      <li><code>Metrics</code> show statistics of questions answered (not applicable)</li>
+                      <li><code>Preview</code> display the output document (not applicable)</li>
                       <li><code>Documents</code> is where you create and download output document</li>
                       <li><code>Settings</code> is where you select format for the output document</li>
                     </ul>
                   </li>
                   <li>Next to the left-hand menu, there is a <b>Phase & Chapters</b> overview, where you can 
-                    change phase and see how many questions that needs to be answered. By clicking on 
-                    one of the chapters you will reach that part of the checklist.</li>
+                    change phase (not applicable, only use 'Before Submitting the Proposal'), see the chapters 
+                    and how many questions needs to be answered. This number will be reduced while answering, and  
+                    when all questions are answered a tick will appear instead (see for example the chapter 
+                    'Optional information' which is ticked already). By clicking on 
+                    one of the chapters in the overview, you will reach that part of the checklist.</li>
                 
                 </ul>
                 <br><a href="#Top"><code><b>Back to Top</b></code></a><br>
@@ -96,33 +104,33 @@
               <h2 id="Fill_the_checklist">Fill the checklist</h2>
               <p>
                 The DSW provides a filtering feature that allows you to see questions relevant only 
-                to a particular phase of a research project. 
+                to a particular phase of a research project. This funcionality has not been implemented 
+                in the NBIS Support Checklist, instead only the default 'Before Submitting the Proposal' 
+                is to be used.
                 <ul>     
-                  <li>Change the phase to <code>Before Submitting the DMP</code> </li>
-                  <br><img src="./select-phase.jpg" alt="select-phase_image"><br><br>
                   <li>The answers will be saved automatically.</li>
                      
                   <li>Under most of the questions you will find guidance or advice on how to answer 
                     or what to consider. </li>
                      
+                  <li>Also, there is a list of <code>Suggested Responder(s)</code> under many of the questions. 
+                  Use this as a guide on who might sit on the answers. </li>
+                  
                   <li>For some questions you may provide more than one answer. If you want to add a new 
                     answer click the <code>Add</code> button at the end of your last answer. <i>Note: When 
-                      doing so, you might need scroll up in order to get to the first field to be filled.</i></li>
+                      doing so, you might need to scroll up in order to get to the first field to be filled.</i></li>
                       
-                  <li>Your checklist is ready to be filled. Answer the questions in red (these are the 
-                    questions that should be answered during the selected phase, questions which belong 
-                    to other phases are in black). </li>
+                  <li>Your checklist is ready to be filled. Answer the questions in red, once a question 
+                    has been answered it becomes green. </li>
                 </ul>
-                <b>Note</b><br>
-                Notice that once a question has been answered, it becomes green. When all questions in a 
-                chapter has been answered, this chapter becomes ticked in the Chapters overview, instead of 
-                showing the number of questions that should be answered.
-                <br><br><a href="#Top"><code><b>Back to Top</b></code></a><br>
+                <br><a href="#Top"><code><b>Back to Top</b></code></a><br>
               </p>
               <hr>
               <h2 id="Add_a_TODO">Add a TODO</h2>
               <p>
-                The tool has a TODO function, which lets you mark questions where an action is necessary.
+                The tool has a TODO function, which lets you mark questions where an action is necessary. This is 
+                useful (and encouraged) for e.g. if you need to collect answer from a collaborator, or if you 
+                want to think about the answer for a while and get back to it later.
                 <ul>
                   <lh><b>Example</b></lh>
                   <li>Click on <code>I. Overview</code> in the Chapters overview menu 
@@ -135,8 +143,8 @@
                     linked, so clicking on one of the items in the list will lead you directly to it. 
                   </li>
                   <br><img src="./todo-navigation.jpg" alt="todo_navigation_image"><br><br>
-                  <li>To remove a TODO, just click on the yellow <code>TODO X</code> that appeared instead 
-                  of the <code>+</code>sign, to the right of the question, when you added the TODO.</li>
+                  <li>To remove a TODO, just click on the yellow <code>TODO X</code>.</li>
+                  <br><img src="./todo-remove.jpg" alt="todo_remove_image"><br>
                 </ul>
                 <br><a href="#Top"><code><b>Back to Top</b></code></a><br>
               </p>
@@ -197,8 +205,13 @@
                 <img src="./migrate-project.jpg" alt="migrate-project_image"><br><br>
 
 			          <h4>First step</h4>
-			          In the first dialogue window, select the highest version number as New Version and click on <b>Create</b>.<br>
-			          Note: The old, outdated version will remain unchanged until you specifically delete	it, these steps will create an updated copy.<br><br>
+			          In the first dialogue window, select the highest version number as New Version and click on <b>Create</b>.<br><br>
+			          <i><b>Note:</b> The outdated version will remain unchanged until you specifically delete it, these 
+                steps will create an updated copy. Unless you really do want to keep the outdated version, we recommend that 
+                the outdated version is deleted after the migration is finalized. If you do keep the outdated version, we 
+                recommend that you deactivate the <code>Share >> Public link</code> in order to prevent that a collaborator continues to 
+                work in the outdated version instead of in the new one. 
+                </i><br><br>
 			    			<img src="./migrate-1-dialogue.jpg" alt="migrate_step1_image"><br><br>
 			
 			          <h4>Second step </h4>
