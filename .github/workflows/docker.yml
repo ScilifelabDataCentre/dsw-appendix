@@ -30,7 +30,7 @@ jobs:
         with:
           images: |
             ghcr.io/scilifelabdatacentre/dsw-appendix
-            dsw-appendix
+            scilifelabdatacentre/dsw-appendix
       - name: Build and Publish
         uses: docker/build-push-action@v2
         with:
