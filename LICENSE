@@ -1,0 +1,46 @@
+## Content Documents
+The content documents of dsw-appendix is dedicated to the public domain under [CC-0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) unless otherwise noted. 
+
+The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC 0 1.0
+license](https://creativecommons.org/publicdomain/zero/1.0/legalcode):
+
+This work has been dedicated to the public domain by waiving all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You are free:
+
+* to **Share**---copy and redistribute the material in any medium or format
+* to **Adapt**---remix, transform, and build upon the material
+
+for any purpose, even commercially without asking permission.
+
+Notices:
+* In no way are the patent or trademark rights of any person affected by CC0, nor are the rights that other persons may have in the work or in how the work is used, such as publicity or privacy rights.
+* Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.
+* When using or citing the work, you should not imply endorsement by the author or the affirmer.
+
+## Terms of Service of SciLifeLab Data Stewardship Wizard
+
+### Introduction
+Data Stewardship Wizard (DS Wizard, DSW) is a tool developed, maintained, and hosted by a team [we] from SciLifeLab Data Centre at Uppsala University for research community and [you] as its user. 
+
+### Personal Data and Consent Notice
+To identify and manage users within DSW, we need to store unique identifier, name, affiliation (optional), and email address gathered upon registration or login via OpenID identity provider. We may also use it to contact you to obtain feedback on your use of the tool, or to inform you of the latest developments or releases. We will not sell, rent, or trade any personal information you provide to us. By using this system, you consent to the collection, retention, and use of your personal information in accordance with the above. You have the right to ask us not to process your personal details for marketing purposes.
+
+### Privacy Policy
+The information you enter into DSW is visible to you and others according to used privacy settings set by you. Moreover, for the purposes of service maintenance, statistics, and development, administrators have access to all data. We may compile anonymized, automated, and aggregated information from your data, but we will not directly access, make use of, or share its content with other subject without your permission.
+                
+With respect to the [GÉANT Data Protection Code of Conduct](https://geant3plus.archive.geant.net/uri/dataprotection-code-of-conduct/v1), 
+we can be recognized as a service provider committed to this code of conduct. More information can be found in our [Privacy Policy](/privacy/) <!--  check if this works -->.
+
+### Freedom of Information
+All questionnaires, knowledge models, documents and other such entities created and stored in DSW are under your own responsibility. Although we store those data, we are not liable in any aspect for the content.
+
+### Passwords
+All user passwords entered in DSW are stored in encrypted form and cannot be retrieved. The forgotten password mechanism therefore requires verified email for resetting the password.
+
+### Third party APIs
+Certain features on this website utilize third party services and APIs, e.g., for type-hint integrations, OpenID authentication, or document submission. Information used by an external service is governed by the privacy policy of that service.
+
+### Revisions
+This statement was last revised on October 07, 2020 and may be revised at any time. Use of the tool indicates that you understand and fully agree to these terms and conditions. Getting acquainted with current version of these terms as well as checking for its updates is the responsibility of every user.
+
