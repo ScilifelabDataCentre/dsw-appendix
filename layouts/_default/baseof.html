@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Data Stewardship Wizard</title>
+    <link href="/css/styles.css" rel="stylesheet">
+    {{- partial "head.html" . -}}
+  </head>
+  <body>
+    <div class="container">
+      <div class="Public_BookReference">
+        <main>
+          {{ .Content }}
+        </main>
+      </div>
+    </div>  
+
+    {{- partial "foot.html" . -}}
+
+  </body>
+</html>
