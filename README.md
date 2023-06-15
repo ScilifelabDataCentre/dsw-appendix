@@ -7,7 +7,7 @@ This repository is used for providing additional information when using SciLifeL
 1. For each topic create a sub-folder, named something appropriate (e.g. dmp-guide), in the content folder
 2. If there are images, put them in folder static/img (if many images, put them in a subfolder with the same name as for the topic)
 3. Create a file named `_index.md` in the new folder, and put the content/text there
-4. The url for the page will be `https://<dsw-instance-url>/appendix/<folder name>`
+4. The url for the page will be `https://dsw-appendix.scilifelab.se/<folder name>`
 
 ### Step 1: Access the code
 
