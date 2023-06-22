@@ -1,3 +1,4 @@
+baseUrl: "https://dsw-appendix.scilifelab.se/"
 languageCode: "en-us"
 title: "SciLifeLab DSW appendix"
 params:
@@ -18,4 +19,3 @@ related:
     weight: 100
   threshold: 80
   toLower: false
- 
