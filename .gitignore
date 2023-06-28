@@ -1,3 +1,8 @@
+# more Hugo stuff
+.hugo_build.lock
+
+# OSX
+.DS_Store
 
 dsw_instructions/clone_questionnaire_2foot.html
 dsw_instructions/export_questionnaire_2foot.html

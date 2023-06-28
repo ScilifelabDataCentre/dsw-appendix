@@ -1,0 +1,21 @@
+baseUrl: "https://dsw-appendix.scilifelab.se/"
+languageCode: "en-us"
+title: "SciLifeLab DSW appendix"
+params:
+  title: "SciLifeLab DSW appendix"
+  description: "SciLifeLab DSW appendix"
+  images:
+    - https://dsw.scilifelab.se/img/logos/scilifelab-logo.svg
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+related:
+  includeNewer: false
+  indices:
+  - name: tags
+    weight: 100
+  threshold: 80
+  toLower: false
