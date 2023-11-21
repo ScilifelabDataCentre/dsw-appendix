@@ -21,13 +21,6 @@ The table below lists the project templates available at dsw.scilifelab.se, thei
             <td class="table-tr1">SciLifeLab Vetenskapsrådet DMP</td>
         </tr>
         <tr class="table-style1">
-            <td class="table-tr1">SciLifeLab FAIR Storage DMP Template</td>
-            <td class="table-tr1">Use this project template when applying for SciLifeLab FAIR Storage. This template also fulfills Vetenskapsrådets (Swedish Research Council) requirements. 
-            </td>
-            <td class="table-tr1">SciLifeLab Science Europe / VR DMP</td>                  
-            <td class="table-tr1">SciLifeLab Vetenskapsrådet DMP</td>
-        </tr>
-        <tr class="table-style1">
             <td class="table-tr1">SNIC DMP Template</td>
             <td class="table-tr1">Use this project template when you want to create an abridged DMP for a SNIC project. 
             </td>

@@ -7,8 +7,7 @@
 
 * Name the project and select Template
   * Write a Name based on your name and project, so it is easy to find later
-  * Select `Vetenskapsrådet DMP Template` as project template if you want to create a DMP fulfilling the requirements of Vetenskapsrådet (Swedish research council)
-  * Select `SciLifeLab FAIR Storage DMP Template` as project template when applying for SciLifeLab FAIR Storage resources
+  * Select `Vetenskapsrådet DMP Template` as project template
 
     **Note:** Select the `SNIC DMP Template` if you want to write the abridged DMP required when applying for a project on Uppmax.
 
