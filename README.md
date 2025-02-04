@@ -119,10 +119,6 @@ Once approved, they will be merged and deployed.
 
 If in doubt, you can ask for help by emailing [data-management@scilifelab.se](mailto:data-management@scilifelab.se).
 
-## License
-
-The content documents are dedicated to the public domain under a CC-0 license.
-
 ## Credits
 
 The website was built by [SciLifeLab Data Centre](https://www.scilifelab.se/data/) and [NBIS](https://nbis.se/).
