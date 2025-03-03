@@ -30,4 +30,7 @@ jobs:
               run: npm install -g pa11y-ci
             
             - name: Run Pa11ly CI
-              run: pa11y-ci --sitemap https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/develop/.github/sitemap.xml
+              run: |
+                pa11y-ci \
+                  --config ${GITHUB_WORKSPACE}/.github/pa11y.config \
+                  --sitemap https://dsw-appendix.scilifelab.se/sitemap.xml
